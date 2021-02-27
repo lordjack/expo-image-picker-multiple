@@ -19,10 +19,13 @@ Multiple image selecting package for Expo SDK (React Native) using [MediaLibrary
 1. Install the repository
     ```bash
     $ npm install --save expo-image-picker-multiple
+    
+    $ npm install --save expo-image-manipulator
     ```
     or
     ```bash
     $ yarn add expo-image-picker-multiple
+    $ yarn add expo-image-manipulator
     ```
 2. Add an import to the top of your file
     ```js
